@@ -1,0 +1,1 @@
+This project explores a dataset of best-selling books using MySQL for data analysis and Power BI for interactive data visualization. The goal was to uncover key insights from the data such as top-performing genres, dominant languages, author success, and sales trends across time.
